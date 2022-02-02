@@ -1,2 +1,2 @@
-# heady-collection
+# Heady's Collection
 ## Heady's Window NFT
